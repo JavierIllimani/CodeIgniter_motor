@@ -1,0 +1,6 @@
+PRIMERA PREGUNTA EXAMEN:
+
+ENTRAR A LA SIGUIENTE DIRECCION PARA VER EL MOTOR DE FLUJO:
+
+
+http://localhost/Parcial2_PM/index.php/controlador/flujo
